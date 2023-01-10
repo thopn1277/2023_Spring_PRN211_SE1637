@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\bin\Debug\net6.0\Topic5_Tuple.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\bin\Debug\net6.0\Topic5_Tuple.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\bin\Debug\net6.0\Topic5_Tuple.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\bin\Debug\net6.0\Topic5_Tuple.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\bin\Debug\net6.0\ref\Topic5_Tuple.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\bin\Debug\net6.0\Topic5_Tuple.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\ref\Topic5_Tuple.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic5_Tuple\obj\Debug\net6.0\Topic5_Tuple.genruntimeconfig.cache

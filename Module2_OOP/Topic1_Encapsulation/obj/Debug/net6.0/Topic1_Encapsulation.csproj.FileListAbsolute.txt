@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\bin\Debug\net6.0\Topic1_Encapsulation.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\bin\Debug\net6.0\Topic1_Encapsulation.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\bin\Debug\net6.0\Topic1_Encapsulation.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\bin\Debug\net6.0\Topic1_Encapsulation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\bin\Debug\net6.0\ref\Topic1_Encapsulation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\bin\Debug\net6.0\Topic1_Encapsulation.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\ref\Topic1_Encapsulation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\Topic1_Encapsulation\obj\Debug\net6.0\Topic1_Encapsulation.genruntimeconfig.cache

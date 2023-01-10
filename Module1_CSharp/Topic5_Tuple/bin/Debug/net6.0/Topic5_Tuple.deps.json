@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Topic5_Tuple/1.0.0": {
+        "runtime": {
+          "Topic5_Tuple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topic5_Tuple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

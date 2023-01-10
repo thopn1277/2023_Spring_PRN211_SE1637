@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic2_String_Interpolation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic3_IO_Basic", "Topic3_IO_Basic\Topic3_IO_Basic.csproj", "{016BF73C-CB54-4AC0-9232-9D1F9A4AA985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic4_Ref_Out_Param_Keyword", "Topic4_Ref_Out_Param_Keyword\Topic4_Ref_Out_Param_Keyword.csproj", "{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic4_Ref_Out_Param_Keyword", "Topic4_Ref_Out_Param_Keyword\Topic4_Ref_Out_Param_Keyword.csproj", "{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic5_Tuple", "Topic5_Tuple\Topic5_Tuple.csproj", "{A3B4A718-C9E2-4A70-B75D-7A6454FDF791}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B4A718-C9E2-4A70-B75D-7A6454FDF791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B4A718-C9E2-4A70-B75D-7A6454FDF791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B4A718-C9E2-4A70-B75D-7A6454FDF791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B4A718-C9E2-4A70-B75D-7A6454FDF791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
