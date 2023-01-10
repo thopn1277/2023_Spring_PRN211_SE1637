@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\bin\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\bin\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\bin\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\bin\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\bin\Debug\net6.0\ref\Topic4_Ref_Out_Param_Keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\bin\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\ref\Topic4_Ref_Out_Param_Keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic4_Ref_Out_Param_Keyword\obj\Debug\net6.0\Topic4_Ref_Out_Param_Keyword.genruntimeconfig.cache

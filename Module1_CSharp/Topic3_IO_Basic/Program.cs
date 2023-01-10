@@ -20,6 +20,7 @@
 // Khai báo
 */
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 string Id;
 string Name;
@@ -30,9 +31,16 @@ double Mark;
 // Input
 Console.Write("Enter Id: ");
 Id = Console.ReadLine();
+while(!Regex.IsMatch(Id, @"^SE[0-9]{6}$"))
+{
+    Console.WriteLine("Invalid Id. Try again! Ex: SE123456");
+    Console.Write("Enter Id:");
+    Id = Console.ReadLine();
+}
 
 Console.Write("Enter Name: ");
 Name = Console.ReadLine();
+
 
 Console.Write("Enter Gender: ");
 while(!bool.TryParse(Console.ReadLine(), out Gender))

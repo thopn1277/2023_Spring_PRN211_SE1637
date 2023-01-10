@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApp", "HelloWorldApp\HelloWorldApp.csproj", "{F42304C3-E752-416B-84BC-E840A534D58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldApp", "HelloWorldApp\HelloWorldApp.csproj", "{F42304C3-E752-416B-84BC-E840A534D58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic1_var_dynamic_keyword", "Topic1_var_dynamic_keyword\Topic1_var_dynamic_keyword.csproj", "{52D5CD51-A84C-40AD-9CBB-2B1574D26C8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic1_var_dynamic_keyword", "Topic1_var_dynamic_keyword\Topic1_var_dynamic_keyword.csproj", "{52D5CD51-A84C-40AD-9CBB-2B1574D26C8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic2_String_Interpolation", "Topic2_String_Interpolation\Topic2_String_Interpolation.csproj", "{76A37998-AC03-4F9C-B5E6-E89FE930CA18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic2_String_Interpolation", "Topic2_String_Interpolation\Topic2_String_Interpolation.csproj", "{76A37998-AC03-4F9C-B5E6-E89FE930CA18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic3_IO_Basic", "Topic3_IO_Basic\Topic3_IO_Basic.csproj", "{016BF73C-CB54-4AC0-9232-9D1F9A4AA985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic3_IO_Basic", "Topic3_IO_Basic\Topic3_IO_Basic.csproj", "{016BF73C-CB54-4AC0-9232-9D1F9A4AA985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic4_Ref_Out_Param_Keyword", "Topic4_Ref_Out_Param_Keyword\Topic4_Ref_Out_Param_Keyword.csproj", "{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{016BF73C-CB54-4AC0-9232-9D1F9A4AA985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016BF73C-CB54-4AC0-9232-9D1F9A4AA985}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016BF73C-CB54-4AC0-9232-9D1F9A4AA985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809D58E6-5B7E-47BE-9E84-DE08C3DC7AF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
