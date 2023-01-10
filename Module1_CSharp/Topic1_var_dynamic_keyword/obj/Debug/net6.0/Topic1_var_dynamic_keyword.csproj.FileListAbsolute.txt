@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\bin\Debug\net6.0\ref\Topic1_var_dynamic_keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\bin\Debug\net6.0\Topic1_var_dynamic_keyword.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\ref\Topic1_var_dynamic_keyword.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic1_var_dynamic_keyword\obj\Debug\net6.0\Topic1_var_dynamic_keyword.genruntimeconfig.cache

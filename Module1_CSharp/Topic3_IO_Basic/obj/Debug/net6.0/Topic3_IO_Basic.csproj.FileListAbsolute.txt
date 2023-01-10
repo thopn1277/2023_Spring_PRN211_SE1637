@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\bin\Debug\net6.0\Topic3_IO_Basic.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\bin\Debug\net6.0\Topic3_IO_Basic.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\bin\Debug\net6.0\Topic3_IO_Basic.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\bin\Debug\net6.0\Topic3_IO_Basic.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\bin\Debug\net6.0\ref\Topic3_IO_Basic.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\bin\Debug\net6.0\Topic3_IO_Basic.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\ref\Topic3_IO_Basic.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic3_IO_Basic\obj\Debug\net6.0\Topic3_IO_Basic.genruntimeconfig.cache

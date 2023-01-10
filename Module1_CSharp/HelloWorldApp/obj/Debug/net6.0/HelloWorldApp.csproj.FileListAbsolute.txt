@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\bin\Debug\net6.0\ref\HelloWorldApp.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\bin\Debug\net6.0\HelloWorldApp.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\ref\HelloWorldApp.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\HelloWorldApp\obj\Debug\net6.0\HelloWorldApp.genruntimeconfig.cache

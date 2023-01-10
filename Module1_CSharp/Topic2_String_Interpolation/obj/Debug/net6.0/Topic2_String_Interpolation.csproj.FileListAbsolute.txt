@@ -1,0 +1,15 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\bin\Debug\net6.0\Topic2_String_Interpolation.exe
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\bin\Debug\net6.0\Topic2_String_Interpolation.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\bin\Debug\net6.0\Topic2_String_Interpolation.runtimeconfig.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\bin\Debug\net6.0\Topic2_String_Interpolation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\bin\Debug\net6.0\ref\Topic2_String_Interpolation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\bin\Debug\net6.0\Topic2_String_Interpolation.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\ref\Topic2_String_Interpolation.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module1_CSharp\Topic2_String_Interpolation\obj\Debug\net6.0\Topic2_String_Interpolation.genruntimeconfig.cache

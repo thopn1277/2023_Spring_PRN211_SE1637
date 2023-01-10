@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f42304c3-e752-416b-84bc-e840a534d58e": {
+      "ProjectGuid": "f42304c3-e752-416b-84bc-e840a534d58e",
+      "DisplayName": "HelloWorldApp",
+      "ColorIndex": 0
+    },
+    "4dbedf20-2aea-4b99-b08a-1d15b4b9f7e9": {
+      "ProjectGuid": "4dbedf20-2aea-4b99-b08a-1d15b4b9f7e9",
+      "DisplayName": "DesktopApp",
+      "ColorIndex": 1
+    },
+    "52d5cd51-a84c-40ad-9cbb-2b1574d26c8f": {
+      "ProjectGuid": "52d5cd51-a84c-40ad-9cbb-2b1574d26c8f",
+      "DisplayName": "Topic1_var_dynamic_keyword",
+      "ColorIndex": 2
+    },
+    "76a37998-ac03-4f9c-b5e6-e89fe930ca18": {
+      "ProjectGuid": "76a37998-ac03-4f9c-b5e6-e89fe930ca18",
+      "DisplayName": "Topic2_String_Interpolation",
+      "ColorIndex": 3
+    },
+    "016bf73c-cb54-4ac0-9232-9d1f9a4aa985": {
+      "ProjectGuid": "016bf73c-cb54-4ac0-9232-9d1f9a4aa985",
+      "DisplayName": "Topic3_IO_Basic",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
