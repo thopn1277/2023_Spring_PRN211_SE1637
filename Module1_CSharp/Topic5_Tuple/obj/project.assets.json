@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic5_Tuple\\Topic5_Tuple.csproj",
+      "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic5_Tuple\\Topic5_Tuple.csproj",
       "projectName": "Topic5_Tuple",
-      "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic5_Tuple\\Topic5_Tuple.csproj",
+      "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic5_Tuple\\Topic5_Tuple.csproj",
       "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-      "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic5_Tuple\\obj\\",
+      "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic5_Tuple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

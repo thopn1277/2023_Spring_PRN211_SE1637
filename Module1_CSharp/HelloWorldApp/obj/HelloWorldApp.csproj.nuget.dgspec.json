@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj": {}
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj": {}
   },
   "projects": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj": {
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\HelloWorldApp\\HelloWorldApp.csproj",
         "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\HelloWorldApp\\obj\\",
+        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\HelloWorldApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

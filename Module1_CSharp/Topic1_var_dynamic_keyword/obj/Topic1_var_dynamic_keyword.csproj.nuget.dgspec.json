@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj": {}
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj": {}
   },
   "projects": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj": {
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj",
+        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj",
         "projectName": "Topic1_var_dynamic_keyword",
-        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj",
+        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic1_var_dynamic_keyword\\Topic1_var_dynamic_keyword.csproj",
         "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic1_var_dynamic_keyword\\obj\\",
+        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic1_var_dynamic_keyword\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

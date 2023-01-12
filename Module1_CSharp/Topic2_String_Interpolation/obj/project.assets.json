@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic2_String_Interpolation\\Topic2_String_Interpolation.csproj",
+      "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic2_String_Interpolation\\Topic2_String_Interpolation.csproj",
       "projectName": "Topic2_String_Interpolation",
-      "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic2_String_Interpolation\\Topic2_String_Interpolation.csproj",
+      "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic2_String_Interpolation\\Topic2_String_Interpolation.csproj",
       "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-      "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic2_String_Interpolation\\obj\\",
+      "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic2_String_Interpolation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

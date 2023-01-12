@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj": {}
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj": {}
   },
   "projects": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj": {
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj",
+        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj",
         "projectName": "Topic3_IO_Basic",
-        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj",
+        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic3_IO_Basic\\Topic3_IO_Basic.csproj",
         "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic3_IO_Basic\\obj\\",
+        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic3_IO_Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

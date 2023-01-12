@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic4_Ref_Out_Param_Keyword\\Topic4_Ref_Out_Param_Keyword.csproj",
+      "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic4_Ref_Out_Param_Keyword\\Topic4_Ref_Out_Param_Keyword.csproj",
       "projectName": "Topic4_Ref_Out_Param_Keyword",
-      "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic4_Ref_Out_Param_Keyword\\Topic4_Ref_Out_Param_Keyword.csproj",
+      "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic4_Ref_Out_Param_Keyword\\Topic4_Ref_Out_Param_Keyword.csproj",
       "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-      "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module1_CSharp\\Topic4_Ref_Out_Param_Keyword\\obj\\",
+      "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharp\\Topic4_Ref_Out_Param_Keyword\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

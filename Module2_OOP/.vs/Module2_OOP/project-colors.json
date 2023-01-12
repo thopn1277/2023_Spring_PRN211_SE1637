@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35ec4236-3fdb-47f9-a55c-a0b023024f51": {
+      "ProjectGuid": "35ec4236-3fdb-47f9-a55c-a0b023024f51",
+      "DisplayName": "Topic1_Encapsulation",
+      "ColorIndex": 0
+    },
+    "58704d3b-a08b-4b56-8f4b-fbc560d6ebdf": {
+      "ProjectGuid": "58704d3b-a08b-4b56-8f4b-fbc560d6ebdf",
+      "DisplayName": "ProjLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

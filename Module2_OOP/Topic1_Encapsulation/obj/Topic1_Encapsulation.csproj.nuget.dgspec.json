@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj": {}
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj": {}
   },
   "projects": {
-    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj": {
+    "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj",
+        "projectUniqueName": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj",
         "projectName": "Topic1_Encapsulation",
-        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj",
+        "projectPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module2_OOP\\Topic1_Encapsulation\\Topic1_Encapsulation.csproj",
         "packagesPath": "C:\\Users\\thopn\\.nuget\\packages\\",
-        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module1_CSharpLanguage\\Module2_OOP\\Topic1_Encapsulation\\obj\\",
+        "outputPath": "E:\\DEMO\\2023\\Spring\\PRN211_SE1637\\Module2_OOP\\Topic1_Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thopn\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\bin\Debug\net6.0\ProjLib.deps.json
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\bin\Debug\net6.0\ProjLib.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\bin\Debug\net6.0\ref\ProjLib.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\bin\Debug\net6.0\ProjLib.pdb
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.csproj.AssemblyReference.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.AssemblyInfoInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.AssemblyInfo.cs
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.csproj.CoreCompileInputs.cache
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ref\ProjLib.dll
+E:\DEMO\2023\Spring\PRN211_SE1637\Module1_CSharpLanguage\Module2_OOP\ProjLib\obj\Debug\net6.0\ProjLib.pdb
